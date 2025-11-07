@@ -1,2 +1,11 @@
 {
+  "header": {
+    "logo-alternative-text": "Logo da Boafeira",
+    "search-placeholder": "Busque e comece as suas compras",
+    "login-button": "Entrar",
+    "profile-navigation": {
+      "my-profile": "Meu Perfil",
+      "logout": "Sair"
+    }
+  }
 }
